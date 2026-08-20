@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Wave Header -->
-<img src="svg-banners.vercel.app/api?type=waving&color=0:1e1e2e,50:b4befe,100:fab387&height=180&section=header&text=Manoj%20Kumar&fontSize=52&fontColor=cdd6f4&fontAlignY=40&desc=Full-Stack%20Engineer%20%E2%80%A2%20Java%20Spring%20Boot%20%E2%80%A2%20AI%20%26%20Cybersecurity&descSize=15&descAlignY=62&descColor=a6adc8&animation=fadeIn" width="100%" />
+<img src="[svg-banners.vercel.app](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text)/api?type=waving&color=0:1e1e2e,50:b4befe,100:fab387&height=180&section=header&text=Manoj%20Kumar&fontSize=52&fontColor=cdd6f4&fontAlignY=40&desc=Full-Stack%20Engineer%20%E2%80%A2%20Java%20Spring%20Boot%20%E2%80%A2%20AI%20%26%20Cybersecurity&descSize=15&descAlignY=62&descColor=a6adc8&animation=fadeIn" width="100%" />
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=b4befe&center=true&vCenter=true&width=700&lines=Building+production-grade+full-stack+systems+%F0%9F%9A%80;Java+Spring+Boot+%E2%80%A2+React.js+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI;AI-Powered+Threat+Detection+%26+SOC+Engineering+%F0%9F%9B%A1%EF%B8%8F;4th-Year+CS+Engineer+%40+SMVITM+Bantakal+%F0%9F%8E%93)](https://github.com/manoj008-cmd)
