@@ -1,27 +1,24 @@
 <div align="center">
 
-<!-- Animated Name Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:00F5D4,100:7C3AED&height=200&section=header&text=Manoj%20Kumar&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Java%20Spring%20Boot%20%7C%20AI%20%26%20Cybersecurity&descSize=16&descAlignY=58&descColor=94A3B8&animation=fadeIn" />
+<!-- Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1e2e,50:b4befe,100:fab387&height=180&section=header&text=Manoj%20Kumar&fontSize=52&fontColor=cdd6f4&fontAlignY=40&desc=Full-Stack%20Engineer%20%E2%80%A2%20Java%20Spring%20Boot%20%E2%80%A2%20AI%20%26%20Cybersecurity&descSize=15&descAlignY=62&descColor=a6adc8&animation=fadeIn" width="100%" />
 
-</div>
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=b4befe&center=true&vCenter=true&width=700&lines=Building+production-grade+full-stack+systems+%F0%9F%9A%80;Java+Spring+Boot+%E2%80%A2+React.js+%E2%80%A2+TypeScript+%E2%80%A2+FastAPI;AI-Powered+Threat+Detection+%26+SOC+Engineering+%F0%9F%9B%A1%EF%B8%8F;4th-Year+CS+Engineer+%40+SMVITM+Bantakal+%F0%9F%8E%93)](https://github.com/manoj008-cmd)
 
-<div align="center">
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00F5D4&center=true&vCenter=true&width=700&lines=Building+production-grade+full-stack+systems;Java+Spring+Boot+%E2%80%A2+React.js+%E2%80%A2+TypeScript;AI-Powered+Threat+Detection+%26+SOC+Engineering;4th-Year+CS+Engineer+%40+SMVITM+Bantakal)](https://github.com/manoj008-cmd)
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-b4befe?style=for-the-badge&logo=linkedin&logoColor=1e1e2e)](https://linkedin.com/in/manoj-kumar)
+[![Gmail](https://img.shields.io/badge/Gmail-fab387?style=for-the-badge&logo=gmail&logoColor=1e1e2e)](mailto:manojkumar829638@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-a6e3a1?style=for-the-badge&logo=vercel&logoColor=1e1e2e)](https://cyber-shield-ai-rouge.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-cdd6f4?style=for-the-badge&logo=github&logoColor=1e1e2e)](https://github.com/manoj008-cmd)
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kumar)
-[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojkumar829638@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00F5D4?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-rosy-delta-46.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manoj008-cmd)
-
-![Status](https://img.shields.io/badge/🟢%20Open%20for-Software%20Engineering%20Roles-00F5D4?style=flat-square)
-![Views](https://komarev.com/ghpvc/?username=manoj008-cmd&color=00F5D4&style=flat-square&label=Profile+Views)
+![Status](https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20for-Software%20Engineering%20Roles-a6e3a1?style=flat-square&labelColor=1e1e2e)
+&nbsp;
+![Views](https://komarev.com/ghpvc/?username=manoj008-cmd&color=b4befe&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -47,7 +44,7 @@ status      : Available for full-time roles & internships
 
 <table>
 <tr>
-<td>
+<td width="33%" valign="top">
 
 **🏗️ Backend Systems**
 - Microservices with Java 17 + Spring Boot
@@ -56,7 +53,7 @@ status      : Available for full-time roles & internships
 - MySQL · PostgreSQL · MongoDB Atlas
 
 </td>
-<td>
+<td width="33%" valign="top">
 
 **🎨 Frontend Engineering**
 - React.js + TypeScript + Vite
@@ -65,7 +62,7 @@ status      : Available for full-time roles & internships
 - Data visualization dashboards
 
 </td>
-<td>
+<td width="33%" valign="top">
 
 **🤖 AI & Security**
 - 5-model ML ensembles (RF, XGBoost, SVM, MLP)
@@ -88,12 +85,12 @@ status      : Available for full-time roles & internships
 ### 🛡️ CyberShield AI
 > SOC Threat Intelligence Platform
 
-Real-time system telemetry monitoring (CPU, RAM, Network I/O) with a **5-model ML ensemble** for attack detection. Includes SMTP-automated alerts and PDF incident report generation.
+Real-time system telemetry monitoring (CPU, RAM, Network I/O) with a **5-model ML ensemble** for attack detection. Includes SMTP automated alerts and PDF incident report generation.
 
 `React.js` `FastAPI` `Python` `Scikit-Learn` `Vercel`
 
-[![Live](https://img.shields.io/badge/🔗_Live_App-00F5D4?style=flat-square&logoColor=black)](https://cyber-shield-ai-rouge.vercel.app)
-[![Source](https://img.shields.io/badge/💻_Source-181717?style=flat-square&logo=github)](https://github.com/manoj008-cmd/CyberShieldAI)
+[![Live](https://img.shields.io/badge/🔗%20Live%20App-a6e3a1?style=flat-square&logoColor=1e1e2e)](https://cyber-shield-ai-rouge.vercel.app)
+[![Source](https://img.shields.io/badge/💻%20Source-cdd6f4?style=flat-square&logo=github&logoColor=1e1e2e)](https://github.com/manoj008-cmd/CyberShieldAI)
 
 </td>
 <td width="50%" valign="top">
@@ -101,12 +98,12 @@ Real-time system telemetry monitoring (CPU, RAM, Network I/O) with a **5-model M
 ### 🚗 Trolly — Toll Engine
 > Full-Stack Transaction Platform
 
-Real-time vehicle tracking, automated toll calculation, transaction analytics, and instant digital receipt generation — backed by Spring Boot REST services.
+Real-time vehicle tracking, automated toll calculation, transaction analytics, and instant digital receipt generation backed by Spring Boot REST services.
 
 `React.js` `Spring Boot` `MongoDB Atlas` `Tailwind CSS`
 
-[![Live](https://img.shields.io/badge/🔗_Live_App-00F5D4?style=flat-square&logoColor=black)](https://trolly-delta.vercel.app/)
-[![Source](https://img.shields.io/badge/💻_Source-181717?style=flat-square&logo=github)](https://github.com/manoj008-cmd/trolly)
+[![Live](https://img.shields.io/badge/🔗%20Live%20App-a6e3a1?style=flat-square&logoColor=1e1e2e)](https://trolly-delta.vercel.app/)
+[![Source](https://img.shields.io/badge/💻%20Source-cdd6f4?style=flat-square&logo=github&logoColor=1e1e2e)](https://github.com/manoj008-cmd/trolly)
 
 </td>
 </tr>
@@ -120,8 +117,8 @@ Step-by-step execution of graph pathfinding (Dijkstra, A\*), sorting algorithms,
 
 `TypeScript` `React.js` `Tailwind CSS` `Vite`
 
-[![Live](https://img.shields.io/badge/🔗_Live_App-00F5D4?style=flat-square&logoColor=black)](https://algovision-jngf.vercel.app/)
-[![Source](https://img.shields.io/badge/💻_Source-181717?style=flat-square&logo=github)](https://github.com/manoj008-cmd/ALGOVISION)
+[![Live](https://img.shields.io/badge/🔗%20Live%20App-a6e3a1?style=flat-square&logoColor=1e1e2e)](https://algovision-jngf.vercel.app/)
+[![Source](https://img.shields.io/badge/💻%20Source-cdd6f4?style=flat-square&logo=github&logoColor=1e1e2e)](https://github.com/manoj008-cmd/ALGOVISION)
 
 </td>
 <td width="50%" valign="top">
@@ -133,21 +130,21 @@ AI-powered threat detection using YOLO11 + ByteTrack, gender classification, and
 
 `Python` `FastAPI` `React.js` `YOLO11` `ByteTrack`
 
-[![Source](https://img.shields.io/badge/💻_Source-181717?style=flat-square&logo=github)](https://github.com/manoj008-cmd/VisionSync)
+[![Source](https://img.shields.io/badge/💻%20Source-cdd6f4?style=flat-square&logo=github&logoColor=1e1e2e)](https://github.com/manoj008-cmd/VisionSync)
 
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 
-### 🏨 Hotel Administration System
-> 12-Module Operational Suite
+### 🏨 Hotel Administration System — 12 Modules
+> Comprehensive Operational Suite
 
-Comprehensive hotel management system covering room bookings, guest records, staff assignments, food inventory, maintenance, and billing — backed by 14 relational DB entity models.
+Room bookings, guest records, staff assignments, food inventory, maintenance, and billing backed by 14 relational DB entity models.
 
 `Node.js` `Express.js` `MySQL` `JavaScript` `HTML5/CSS3`
 
-[![Source](https://img.shields.io/badge/💻_Source-181717?style=flat-square&logo=github)](https://github.com/manoj008-cmd/HOTEL_MANAGEMENT)
+[![Source](https://img.shields.io/badge/💻%20Source-cdd6f4?style=flat-square&logo=github&logoColor=1e1e2e)](https://github.com/manoj008-cmd/HOTEL_MANAGEMENT)
 
 </td>
 </tr>
@@ -159,32 +156,36 @@ Comprehensive hotel management system covering room bookings, guest records, sta
 
 <div align="center">
 
-### Languages & Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+**Languages & Backend**
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-fab387?style=for-the-badge&logo=openjdk&logoColor=1e1e2e)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-a6e3a1?style=for-the-badge&logo=springboot&logoColor=1e1e2e)
+![Python](https://img.shields.io/badge/Python-89b4fa?style=for-the-badge&logo=python&logoColor=1e1e2e)
+![FastAPI](https://img.shields.io/badge/FastAPI-94e2d5?style=for-the-badge&logo=fastapi&logoColor=1e1e2e)
+![Node.js](https://img.shields.io/badge/Node.js-a6e3a1?style=for-the-badge&logo=nodedotjs&logoColor=1e1e2e)
+![C++](https://img.shields.io/badge/C++-89b4fa?style=for-the-badge&logo=cplusplus&logoColor=1e1e2e)
 
-### Databases & DevOps
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Frontend**
 
-### AI & Security
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![OpenCV](https://img.shields.io/badge/YOLO11_+_OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![React](https://img.shields.io/badge/React-89dceb?style=for-the-badge&logo=react&logoColor=1e1e2e)
+![TypeScript](https://img.shields.io/badge/TypeScript-89b4fa?style=for-the-badge&logo=typescript&logoColor=1e1e2e)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-89dceb?style=for-the-badge&logo=tailwindcss&logoColor=1e1e2e)
+![Vite](https://img.shields.io/badge/Vite-b4befe?style=for-the-badge&logo=vite&logoColor=1e1e2e)
+
+**Databases & DevOps**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-a6e3a1?style=for-the-badge&logo=mongodb&logoColor=1e1e2e)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-89b4fa?style=for-the-badge&logo=postgresql&logoColor=1e1e2e)
+![MySQL](https://img.shields.io/badge/MySQL-89b4fa?style=for-the-badge&logo=mysql&logoColor=1e1e2e)
+![Docker](https://img.shields.io/badge/Docker-89dceb?style=for-the-badge&logo=docker&logoColor=1e1e2e)
+![Vercel](https://img.shields.io/badge/Vercel-cdd6f4?style=for-the-badge&logo=vercel&logoColor=1e1e2e)
+![Git](https://img.shields.io/badge/Git-fab387?style=for-the-badge&logo=git&logoColor=1e1e2e)
+
+**AI & Security**
+
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-fab387?style=for-the-badge&logo=scikit-learn&logoColor=1e1e2e)
+![Spring Security](https://img.shields.io/badge/Spring_Security-a6e3a1?style=for-the-badge&logo=springsecurity&logoColor=1e1e2e)
+![YOLO](https://img.shields.io/badge/YOLO11_+_OpenCV-f38ba8?style=for-the-badge&logo=opencv&logoColor=1e1e2e)
 
 </div>
 
@@ -193,7 +194,7 @@ Comprehensive hotel management system covering room bookings, guest records, sta
 ## 🏆 Achievements
 
 | 🏅 | Event | Organizer | Details |
-|---|---|---|---|
+|:---:|---|---|---|
 | 🥇 | **IEEE DataPort Hackathon 2026** | IEEE CS Bangalore Chapter | Data Science & ML Engineering excellence |
 | 💡 | **Tech Ideathon 2025** | SkillBolt.Dev | Team NeuroNex — AI innovation & system architecture `ID20256VWXIL` |
 | ⚡ | **HACKOTSAVA 2025** | SMVITM Bantakal | National-level rapid full-stack prototyping `SMVITM-HACK-2025-041` |
@@ -204,13 +205,13 @@ Comprehensive hotel management system covering room bookings, guest records, sta
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=manoj008-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=00F5D4&icon_color=7C3AED&text_color=94A3B8&rank_icon=github" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=manoj008-cmd&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github&include_all_commits=true" height="170"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj008-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=00F5D4&text_color=94A3B8&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj008-cmd&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" height="170"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manoj008-cmd&theme=tokyonight&hide_border=true&background=0A0F1E&ring=00F5D4&fire=7C3AED&currStreakLabel=00F5D4&sideLabels=94A3B8" />
+<img src="https://streak-stats.demolab.com?user=manoj008-cmd&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
@@ -222,12 +223,14 @@ Comprehensive hotel management system covering room bookings, guest records, sta
 
 **Full-Time SWE Roles · Backend & Full-Stack Internships · Open Source Collaborations**
 
-[![Email](https://img.shields.io/badge/manojkumar829638%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojkumar829638@gmail.com)
+<br/>
+
+[![Email](https://img.shields.io/badge/manojkumar829638%40gmail.com-fab387?style=for-the-badge&logo=gmail&logoColor=1e1e2e)](mailto:manojkumar829638@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kumar)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-b4befe?style=for-the-badge&logo=linkedin&logoColor=1e1e2e)](https://linkedin.com/in/manoj-kumar)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00F5D4,100:0A0F1E&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fab387,50:b4befe,100:1e1e2e&height=100&section=footer" width="100%" />
 
 </div>
