@@ -17,7 +17,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kumar)
 [![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojkumar829638@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00F5D4?style=for-the-badge&logo=vercel&logoColor=black)](https://cyber-shield-ai-rouge.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00F5D4?style=for-the-badge&logo=vercel&logoColor=black)](https://portfolio-rosy-delta-46.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manoj008-cmd)
 
 ![Status](https://img.shields.io/badge/🟢%20Open%20for-Software%20Engineering%20Roles-00F5D4?style=flat-square)
