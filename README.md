@@ -1,229 +1,216 @@
+<div align="center">
+
+<!-- Animated Name Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0F1E,50:00F5D4,100:7C3AED&height=200&section=header&text=Manoj%20Kumar&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Java%20Spring%20Boot%20%7C%20AI%20%26%20Cybersecurity&descSize=16&descAlignY=58&descColor=94A3B8&animation=fadeIn" />
+
+</div>
 
 <div align="center">
 
-  <!-- Dynamic Typing Banner -->
-  <a href="https://github.com/manoj008-cmd">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F5D4&center=true&vCenter=true&width=800&lines=👋+Hi!+I'm+Manoj+Kumar;🎓+4th-Year+CS+Engineering+Student+%40+SMVITM;💼+Ex-Java+Dev+Intern+%40+TechnoHacks;⚡+Full-Stack+%26+Java+Spring+Boot+Architect;🔒+AI-Powered+Cybersecurity+%26+SOC+Engineer;🚀+Building+%26+Deploying+Production-Grade+Software" alt="Typing SVG Header" />
-  </a>
-
-  <br/>
-
-  <!-- 🌐 CONNECT WITH ME - PLACED AT THE TOP -->
-  <h3>📫 Let's Connect & Collaborate!</h3>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/manoj-kumar" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    &nbsp;
-    <a href="mailto:manojkumar829638@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    &nbsp;
-    <a href="https://github.com/manoj008-cmd" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    &nbsp;
-    <a href="https://cyber-shield-ai-rouge.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Live_Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
-    </a>
-  </p>
-
-  <p align="center">
-    <img src="https://img.shields.io/badge/Status-🟢_Open_for_Software_Engineering_Roles-success?style=flat-square" alt="Status"/>
-    &nbsp;
-    <img src="https://komarev.com/ghpvc/?username=manoj008-cmd&color=00F5D4&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-  </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=00F5D4&center=true&vCenter=true&width=700&lines=Building+production-grade+full-stack+systems;Java+Spring+Boot+%E2%80%A2+React.js+%E2%80%A2+TypeScript;AI-Powered+Threat+Detection+%26+SOC+Engineering;4th-Year+CS+Engineer+%40+SMVITM+Bantakal)](https://github.com/manoj008-cmd)
 
 </div>
 
 ---
 
-## 👨‍💻 Engineering Profile & Overview
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kumar)
+[![Gmail](https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojkumar829638@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Live-00F5D4?style=for-the-badge&logo=vercel&logoColor=black)](https://cyber-shield-ai-rouge.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manoj008-cmd)
+
+![Status](https://img.shields.io/badge/🟢%20Open%20for-Software%20Engineering%20Roles-00F5D4?style=flat-square)
+![Views](https://komarev.com/ghpvc/?username=manoj008-cmd&color=00F5D4&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+## `$ whoami`
 
 ```yaml
-# 🎓 4th-Year Computer Science & Engineering Undergraduate Profile
-Student: Manoj Kumar
-University: Shri Madhwa Vadiraja Institute of Technology & Management (SMVITM Bantakal)
-Degree: Bachelor of Engineering in Computer Science (2023 – 2027)
-Academic Standing: CGPA 8.00 / 10.0
-Industry Experience: Java Development Intern @ TechnoHacks Solutions Pvt. Ltd. (Jul 2025 – Aug 2025)
-Core Focus: Full-Stack Systems, Java Spring Boot REST APIs, Cloud Infrastructure & AI Security
-Primary Stack: Java 17+, Spring Boot, Spring Security, React.js, Vite, TypeScript, Python, MongoDB Atlas, PostgreSQL
-Location: Karnataka, India
+name        : Manoj Kumar
+role        : Full-Stack Engineer · AI/ML Engineer · Cybersecurity Enthusiast
+university  : SMVITM Bantakal — B.E. Computer Science (2023–2027)
+cgpa        : 8.00 / 10.0
+experience  : Java Development Intern @ TechnoHacks Solutions Pvt. Ltd. (Jul–Aug 2025)
+stack       : Java 17 · Spring Boot · React.js · TypeScript · FastAPI · Python
+databases   : MongoDB Atlas · PostgreSQL · MySQL
+location    : Karnataka, India 🇮🇳
+status      : Available for full-time roles & internships
 ```
 
-### 🎯 Key Technical Highlights
-- 🧠 **Computer Science Core:** Proficient in Data Structures & Algorithms, Object-Oriented System Design (OOD), Relational Database Management Systems (DBMS), Operating Systems, and Computer Networks.
-- ⚡ **Backend & Distributed APIs:** Building robust microservices with **Java, Spring Boot, Spring Security**, and **FastAPI**, backed by relational (MySQL/PostgreSQL) and NoSQL (MongoDB Atlas) databases.
-- 🎨 **Modern Web Frontends:** Architecting responsive, lightning-fast UIs using **React.js, Vite, TypeScript,** and **Tailwind CSS**.
-- 🛡️ **Cybersecurity & AI Intelligence:** Built **CyberShield AI**, a SOC threat telemetry platform utilizing a 5-model Machine Learning ensemble, and **VisionSync**, a real-time CCTV threat detection system utilizing YOLO11 & ByteTrack.
-
 ---
 
-## 🛠️ Technical Competencies & Tooling
+## ⚡ What I Build
 
-### ⚙️ Backend Engineering & Core Languages
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,py,fastapi,c,cpp" alt="Backend Stack" />
-  </a>
-</div>
+<table>
+<tr>
+<td>
 
-### 🎨 Frontend Engineering & UI Design
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,vite,bootstrap" alt="Frontend Stack" />
-  </a>
-</div>
+**🏗️ Backend Systems**
+- Microservices with Java 17 + Spring Boot
+- REST APIs with Spring Security & JWT
+- FastAPI services with Python
+- MySQL · PostgreSQL · MongoDB Atlas
 
-### 🔒 AI, Machine Learning & Security Infrastructure
-<div align="left">
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/YOLO11-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" alt="YOLO11" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/ByteTrack-7C3AED?style=for-the-badge&logo=python&logoColor=white" alt="ByteTrack" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/FastAPI_AI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-</div>
+</td>
+<td>
 
-<br/>
+**🎨 Frontend Engineering**
+- React.js + TypeScript + Vite
+- Tailwind CSS component systems
+- Real-time WebSocket UIs
+- Data visualization dashboards
 
-### 🗄️ Databases & Storage
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" alt="Databases" />
-  </a>
-</div>
+</td>
+<td>
 
-### 🚀 DevOps, Deployment & CI/CD
-<div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,railway,postman" alt="DevOps Tools" />
-  </a>
-</div>
+**🤖 AI & Security**
+- 5-model ML ensembles (RF, XGBoost, SVM, MLP)
+- YOLO11 object detection + ByteTrack
+- SOC threat telemetry & alerting
+- Automated incident reporting
 
----
-
-## 🚀 Production & Engineering Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🛡️ CyberShield AI</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Live_App-00F5D4?style=flat-square&logo=vercel&logoColor=black" alt="Live Badge"/>
-        <img src="https://img.shields.io/badge/AI_%2F_SOC_Security-7C3AED?style=flat-square" alt="Category"/>
-      </p>
-      <p>Real-Time Security Operations Center (SOC) Threat Intelligence Platform monitoring system telemetry (CPU, RAM, Network I/O) with a <b>5-model Machine Learning ensemble</b> (Random Forest, XGBoost, SVM, Decision Tree, MLP) for attack detection, SMTP automated alerts, and PDF incident reporting.</p>
-      <p><b>Tech Stack:</b> <code>React.js</code> <code>FastAPI</code> <code>Python</code> <code>Scikit-Learn</code> <code>Vercel</code></p>
-      <p align="center">
-        <a href="https://cyber-shield-ai-rouge.vercel.app" target="_blank">🔗 <b>Launch Live App</b></a> • 
-        <a href="https://github.com/manoj008-cmd/CyberShieldAI" target="_blank">💻 <b>Source Code</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">👁️ AlgoVision</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Live_App-00F5D4?style=flat-square&logo=vercel&logoColor=black" alt="Live Badge"/>
-        <img src="https://img.shields.io/badge/Algorithms_%2F_DS-007ACC?style=flat-square" alt="Category"/>
-      </p>
-      <p>Interactive algorithm and data structure visualizer supporting real-time step-by-step execution analysis of graph pathfinding algorithms (Dijkstra, A*), sorting algorithms, and data structure operations with customizable step speeds.</p>
-      <p><b>Tech Stack:</b> <code>TypeScript</code> <code>React.js</code> <code>Tailwind CSS</code> <code>Vite</code></p>
-      <p align="center">
-        <a href="https://algovision-jngf.vercel.app/" target="_blank">🔗 <b>Launch Live App</b></a> • 
-        <a href="https://github.com/manoj008-cmd/ALGOVISION" target="_blank">💻 <b>Source Code</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🚗 Trolly — Toll Transaction Engine</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Live_App-00F5D4?style=flat-square&logo=vercel&logoColor=black" alt="Live Badge"/>
-        <img src="https://img.shields.io/badge/Full_Stack_Java-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Category"/>
-      </p>
-      <p>Full-stack vehicle toll & transaction engine supporting real-time vehicle tracking, automated toll calculation, transaction analytics, and instant digital receipt generation backed by Spring Boot REST services.</p>
-      <p><b>Tech Stack:</b> <code>React.js</code> <code>Spring Boot</code> <code>MongoDB Atlas</code> <code>Tailwind CSS</code></p>
-      <p align="center">
-        <a href="https://trolly-delta.vercel.app/" target="_blank">🔗 <b>Launch Live App</b></a> • 
-        <a href="https://github.com/manoj008-cmd/trolly" target="_blank">💻 <b>Source Code</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🔒 VisionSync — Real-Time CCTV Safety</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/AI_Vision-FF6F00?style=flat-square" alt="Category"/>
-      </p>
-      <p>AI-powered CCTV safety threat detection system integrating YOLO11 object detection, ByteTrack object tracking, gender classification, and VideoMAE action recognition with live WebSocket alert feeds.</p>
-      <p><b>Tech Stack:</b> <code>Python</code> <code>FastAPI</code> <code>React.js</code> <code>YOLO11</code> <code>ByteTrack</code></p>
-      <p align="center">
-        <a href="https://github.com/manoj008-cmd/VisionSync" target="_blank">💻 <b>Source Code</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" colspan="2" valign="top">
-      <h3 align="center">🏨 Hotel Administration System (12 Modules)</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Full_Stack-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Category"/>
-      </p>
-      <p align="center">Comprehensive 12-module operational hotel suite managing room bookings, guest administration, staff assignments, food inventory, maintenance schedules, and billing backed by 14 relational database entity models.</p>
-      <p align="center"><b>Tech Stack:</b> <code>Node.js</code> <code>Express.js</code> <code>MySQL</code> <code>JavaScript</code> <code>HTML5/CSS3</code></p>
-      <p align="center">
-        <a href="https://github.com/manoj008-cmd/HOTEL_MANAGEMENT" target="_blank">💻 <b>Source Code on GitHub</b></a>
-      </p>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-## 🏆 Certifications, Hackathons & Competitions
+## 🚀 Featured Projects
 
 <table width="100%">
-  <tr>
-    <th width="30%">Event & Title</th>
-    <th width="30%">Issuing Body</th>
-    <th width="40%">Credential / Domain Details</th>
-  </tr>
-  <tr>
-    <td>🥇 <b>IEEE DataPort Hackathon 2026</b></td>
-    <td>IEEE Computer Society Bangalore Chapter & IEEE DataPort</td>
-    <td>Awarded for active participation & technical excellence in Data Science & Machine Learning engineering.</td>
-  </tr>
-  <tr>
-    <td>💡 <b>Tech Ideathon 2025</b></td>
-    <td>SkillBolt.Dev</td>
-    <td>Represented <b>Team NeuroNex</b> — Recognized for software system architecture & AI innovation <i>(ID: ID20256VWXIL)</i>.</td>
-  </tr>
-  <tr>
-    <td>⚡ <b>HACKOTSAVA 2025</b></td>
-    <td>SMVITM Bantakal</td>
-    <td>National Level Hackathon award for rapid full-stack prototyping under time constraints <i>(Ref: SMVITM-HACK-2025-041)</i>.</td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ CyberShield AI
+> SOC Threat Intelligence Platform
+
+Real-time system telemetry monitoring (CPU, RAM, Network I/O) with a **5-model ML ensemble** for attack detection. Includes SMTP-automated alerts and PDF incident report generation.
+
+`React.js` `FastAPI` `Python` `Scikit-Learn` `Vercel`
+
+[![Live](https://img.shields.io/badge/🔗_Live_App-00F5D4?style=flat-square&logoColor=black)](https://cyber-shield-ai-rouge.vercel.app)
+[![Source](https://img.shields.io/badge/💻_Source-181717?style=flat-square&logo=github)](https://github.com/manoj008-cmd/CyberShieldAI)
+
+</td>
+<td width="50%" valign="top">
+
+### 🚗 Trolly — Toll Engine
+> Full-Stack Transaction Platform
+
+Real-time vehicle tracking, automated toll calculation, transaction analytics, and instant digital receipt generation — backed by Spring Boot REST services.
+
+`React.js` `Spring Boot` `MongoDB Atlas` `Tailwind CSS`
+
+[![Live](https://img.shields.io/badge/🔗_Live_App-00F5D4?style=flat-square&logoColor=black)](https://trolly-delta.vercel.app/)
+[![Source](https://img.shields.io/badge/💻_Source-181717?style=flat-square&logo=github)](https://github.com/manoj008-cmd/trolly)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ AlgoVision
+> Interactive Algorithm Visualizer
+
+Step-by-step execution of graph pathfinding (Dijkstra, A\*), sorting algorithms, and data structure operations with adjustable speed controls.
+
+`TypeScript` `React.js` `Tailwind CSS` `Vite`
+
+[![Live](https://img.shields.io/badge/🔗_Live_App-00F5D4?style=flat-square&logoColor=black)](https://algovision-jngf.vercel.app/)
+[![Source](https://img.shields.io/badge/💻_Source-181717?style=flat-square&logo=github)](https://github.com/manoj008-cmd/ALGOVISION)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔒 VisionSync
+> Real-Time CCTV Safety System
+
+AI-powered threat detection using YOLO11 + ByteTrack, gender classification, and VideoMAE action recognition with live WebSocket alert feeds.
+
+`Python` `FastAPI` `React.js` `YOLO11` `ByteTrack`
+
+[![Source](https://img.shields.io/badge/💻_Source-181717?style=flat-square&logo=github)](https://github.com/manoj008-cmd/VisionSync)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🏨 Hotel Administration System
+> 12-Module Operational Suite
+
+Comprehensive hotel management system covering room bookings, guest records, staff assignments, food inventory, maintenance, and billing — backed by 14 relational DB entity models.
+
+`Node.js` `Express.js` `MySQL` `JavaScript` `HTML5/CSS3`
+
+[![Source](https://img.shields.io/badge/💻_Source-181717?style=flat-square&logo=github)](https://github.com/manoj008-cmd/HOTEL_MANAGEMENT)
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 📊 GitHub Performance & Code Metrics
+## 🛠️ Tech Stack
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=manoj008-cmd&show_icons=true&theme=cyberpunk&hide_border=true&bg_color=0A0F1E&title_color=00F5D4&icon_color=00F5D4&text_color=94A3B8" height="180" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj008-cmd&layout=compact&theme=cyberpunk&hide_border=true&bg_color=0A0F1E&title_color=00F5D4&text_color=94A3B8" height="180" alt="Top Languages" />
+### Languages & Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Databases & DevOps
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### AI & Security
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![OpenCV](https://img.shields.io/badge/YOLO11_+_OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 </div>
 
-<br/>
+---
+
+## 🏆 Achievements
+
+| 🏅 | Event | Organizer | Details |
+|---|---|---|---|
+| 🥇 | **IEEE DataPort Hackathon 2026** | IEEE CS Bangalore Chapter | Data Science & ML Engineering excellence |
+| 💡 | **Tech Ideathon 2025** | SkillBolt.Dev | Team NeuroNex — AI innovation & system architecture `ID20256VWXIL` |
+| ⚡ | **HACKOTSAVA 2025** | SMVITM Bantakal | National-level rapid full-stack prototyping `SMVITM-HACK-2025-041` |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manoj008-cmd&theme=cyberpunk&hide_border=true&background=0A0F1E&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=manoj008-cmd&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=00F5D4&icon_color=7C3AED&text_color=94A3B8&rank_icon=github" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoj008-cmd&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0F1E&title_color=00F5D4&text_color=94A3B8&langs_count=8" height="170"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manoj008-cmd&theme=tokyonight&hide_border=true&background=0A0F1E&ring=00F5D4&fire=7C3AED&currStreakLabel=00F5D4&sideLabels=94A3B8" />
 
 </div>
 
@@ -231,23 +218,16 @@ Location: Karnataka, India
 
 <div align="center">
 
-  <h3>🤝 Open for Opportunities & Technical Discussion</h3>
+### 💬 Open to Opportunities
 
-  <p>
-    I am actively seeking <b>Full-Time Software Engineering Roles</b>, <b>Backend / Full-Stack Development Internships</b>, and <b>Open-Source Projects</b>.
-  </p>
+**Full-Time SWE Roles · Backend & Full-Stack Internships · Open Source Collaborations**
 
-  <a href="mailto:manojkumar829638@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Manoj_Kumar-manojkumar829638%40gmail.com-00F5D4?style=for-the-badge&logo=gmail&logoColor=black" alt="Email Manoj"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/manoj-kumar" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+[![Email](https://img.shields.io/badge/manojkumar829638%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manojkumar829638@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manoj-kumar)
 
-  <br/><br/>
+<br/>
 
-  <sub>Designed with precision for <b>Manoj Kumar</b> • 4th-Year Computer Science Engineer</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00F5D4,100:0A0F1E&height=100&section=footer" />
 
 </div>
-```
